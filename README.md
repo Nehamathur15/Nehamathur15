@@ -1,7 +1,7 @@
 Hi there !! Welcome to my github.
 
-I am a Dat aAnalyst and budding Data Scientist with a desire to help organizations harness the power of data.
-I have work experience of 6+ years across geographies in Insurance domain. 
+I am a Data Analyst and budding Data Scientist helping organizations harness the power of data.
+I have work experience of 6+ years across geographies in insurance, banking anf finance domain. 
 
 - :mortar_board: I graduated with Masters in Data Science from Pace University in December 2022
 - 👀 I’m currently looking out for full-time opportunities where i could apply my technical and functional skills to drive actionable results using data
